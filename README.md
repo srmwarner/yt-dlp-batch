@@ -16,7 +16,7 @@ USAGE
 
 Changing the variables:
 
- - Open the batch file with a code editor (e.g. Notepad++) 
+ - Open the batch file with a code editor  
 
 1. Replace PLAYLIST_URL_HERE with the URL of the playlist or channel you want to download.
 2. Replace DOWNLOAD_FOLDER_HERE with the path of the folder where you want to save the downloaded files.
